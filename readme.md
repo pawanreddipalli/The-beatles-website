@@ -36,7 +36,7 @@ To run this project locally:
    git clone https://github.com/pawanreddipalli/The-beatles-website.git
    ```
 
-2. **Navigate to the Project Directory:
+2. **Navigate to the Project Directory:**
 
    ```bash
    cd The-beatles-website
