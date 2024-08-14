@@ -46,7 +46,7 @@ To run this project locally:
    
      Simply open the index.html file located in the project directory with your preferred web browser to view the website.
 
-##Initial Setup
+## Initial Setup
 
 If you are setting up the repository for the first time, this section provides a comprehensive guide on initializing a Git repository and setting up your remote connections:
 
@@ -89,7 +89,7 @@ If you are setting up the repository for the first time, this section provides a
    git push -u origin main
    ```
 
-##Deployment
+## Deployment
 
 This project is deployed using GitHub Pages. To make changes and deploy updates, follow these steps:
 
@@ -113,8 +113,8 @@ This project is deployed using GitHub Pages. To make changes and deploy updates,
 
 4. **GitHub Actions:** The deployment is automated using GitHub Actions. Ensure that your repository is configured to deploy to GitHub Pages upon push.
 
-##Contributing
+## Contributing
 Feel free to fork the repository, make changes, and create pull requests. Contributions are welcome!
 
-##Contact
+## Contact
 For any questions or feedback, please reach out to [Pawan Reddipalli](https://www.pawanreddipalli.com).
