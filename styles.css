@@ -46,7 +46,7 @@ html, body {
 
 .main-header {
     background-color: rgba(0, 0, 0, .2);
-    background-image: url("Images/How-Kurt-Cobains-Cover-of-a-Beatles-Song-Was-Finally-Found-1024x742.jpg");
+    background-image: url("./images/How-Kurt-Cobains-Cover-of-a-Beatles-Song-Was-Finally-Found-1024x742.jpg");
     background-blend-mode: multiply;
     background-size: cover;
     padding-bottom: 30px;
