@@ -34,11 +34,13 @@ To run this project locally:
 
    ```bash
    git clone https://github.com/pawanreddipalli/The-beatles-website.git
+   ```
 
 2. **Navigate to the Project Directory:
 
    ```bash
    cd The-beatles-website
+   ```
 
 3. **Open the index.html File in a Browser:**
    
